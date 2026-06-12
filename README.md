@@ -23,12 +23,13 @@
 
 ---
 
-### <samp style="color: #2D5016;">With AI</samp>
+#### <samp style="color: #2D5016;">With AI</samp>
 
-<a href="https://github.com/vk8nwrbsf8-collab/HistoryPaste"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vk8nwrbsf8-collab&repo=HistoryPaste&theme=default&hide_border=true&title_color=2D5016&icon_color=2D5016&text_color=333333&bg_color=00000000" alt="HistoryPaste" /></a>
-<a href="https://github.com/vk8nwrbsf8-collab/pixel-cat-assistant"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vk8nwrbsf8-collab&repo=pixel-cat-assistant&theme=default&hide_border=true&title_color=2D5016&icon_color=2D5016&text_color=333333&bg_color=00000000" alt="pixel-cat-assistant" /></a>
+<a href="https://github.com/vk8nwrbsf8-collab/HistoryPaste"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vk8nwrbsf8-collab&repo=HistoryPaste&theme=default&hide_border=true&title_color=2D5016&icon_color=2D5016&text_color=333333&bg_color=00000000&cache_seconds=0" alt="HistoryPaste" /></a>
+<a href="https://github.com/vk8nwrbsf8-collab/pixel-cat-assistant"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vk8nwrbsf8-collab&repo=pixel-cat-assistant&theme=default&hide_border=true&title_color=2D5016&icon_color=2D5016&text_color=333333&bg_color=00000000&cache_seconds=0" alt="pixel-cat-assistant" /></a>
 
-<a href="https://vk8nwrbsf8-collab.github.io/html-to-image/"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vk8nwrbsf8-collab&repo=html-to-image&theme=default&hide_border=true&title_color=2D5016&icon_color=2D5016&text_color=333333&bg_color=00000000" alt="html-to-image" /></a>
+<a href="https://vk8nwrbsf8-collab.github.io/html-to-image/"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vk8nwrbsf8-collab&repo=html-to-image&theme=default&hide_border=true&title_color=2D5016&icon_color=2D5016&text_color=333333&bg_color=00000000&cache_seconds=0" alt="html-to-image" /></a>
+<a href="https://github.com/vk8nwrbsf8-collab/tracking-plan-generator"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=vk8nwrbsf8-collab&repo=tracking-plan-generator&theme=default&hide_border=true&title_color=2D5016&icon_color=2D5016&text_color=333333&bg_color=00000000&cache_seconds=0" alt="tracking-plan-generator" /></a>
 ---
 
 <div align="center">
